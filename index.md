@@ -4,7 +4,7 @@
 
 ### Academic Transcript 
 
-[View Document](/pdf/Academic_Transcripts.pdf)
+[View Document](https://github.com/fishball926/e-portfolio/blob/ac78a3bab1f44b71191749dd96267acb4f871602/pdf/Academic_Transcripts.pdf)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
