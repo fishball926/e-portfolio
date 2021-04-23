@@ -4,7 +4,7 @@
 
 ### Academic Transcript 
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](/pdf/Academics Transcripts.pdf)
 <img src="pdf/Academics Transcripts.pdf?raw=true"/>
 
 ---
