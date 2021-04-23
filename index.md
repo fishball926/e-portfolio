@@ -4,8 +4,7 @@
 
 ### Academic Transcript 
 
-[Project 1 Title](/pdf/Academic Transcripts.pdf)
-<img src="pdf/Academics Transcripts.pdf?raw=true"/>
+[View Document](/pdf/Academic_Transcripts.pdf)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
